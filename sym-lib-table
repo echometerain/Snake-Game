@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Matrix")(type "KiCad")(uri "${KIPRJMOD}/TEJ Matrix.kicad_sym")(options "")(descr ""))
+  (lib (name "TEJ Matrix")(type "KiCad")(uri "${KIPRJMOD}/TEJ Matrix.kicad_sym")(options "")(descr ""))
+)
